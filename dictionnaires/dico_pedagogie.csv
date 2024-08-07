@@ -1,0 +1,70 @@
+mots,valeur
+pas du tout de clinique,0.75
+pas un stage clinique,0.75
+pas de clinique,0.75
+clinique inexistant,0.75
+pas un stage de clinique,0.75
+clinique pas existant,0.75
+trop d administratif,0.25
+trop administratif,0.25
+aucuns gestes,0.25
+aucun geste,0.25
+pas formatrice,0.25
+pas formateur,0.25
+pas trop formateur,0.25
+pas d explication,0.5
+pas d explications,0.5
+sans explications,0.5
+sans explication,0.5
+aucune explication,0.5
+jamais d explication,0.5
+jamais d explications,0.5
+aucun apprentissage,0.5
+pas d apprentissage,0.5
+pas de communication,0.25
+aucune pedagogie,0.5
+pedagogie absent,0.5
+pedagogie absente,0.5
+charge de secretariat tres lourd,0.5
+charge de secretariat tres lourde,0.5
+travail administratif,0.5
+charge de travail secretaire,0.5
+charge secretariale,0.5
+clairement secretaire,0.5
+charge de secretariat,0.5
+que du secretariat,0.5
+que du travail de secretariat,0.5
+faire la secretaire,0.5
+charge de secretaire,0.5
+stage secretariat,0.5
+grosse charge de travail administratif,0.5
+grosse charge de travail administrative,0.5
+pas pouvoir s habiller,0.5
+s habiller que rarement,0.5
+pas s habiller,0.5
+peu s habiller,0.25
+jamais s habiller,0.75
+pauvre en enseignement,0.5
+sinon on est mort,0.25
+pedagogique assez pauvre,0.5
+pedagogique pauvre,0.5
+pedagogie assez pauvre,0.5
+pedagogie pauvre,0.5
+pas du tout pedagogiques,0.5
+pas du tout pedagogique,0.5
+pas du tout de pedagogie,0.5
+regresser,0.5
+regresse,0.5
+regressee,0.5
+tenir les murs,0.5
+aucun interet,0.5
+aucun objectif,0.5
+aucun objectifs,0.5
+aucuns objectifs,0.5
+apprentissage quasi nul,0.25
+apprentissage quasi nulle,0.25
+decorer,0.5
+decorent,0.5
+rien a faire,0.75
+poids morts,1
+trop court,0.5

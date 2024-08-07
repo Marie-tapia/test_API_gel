@@ -1,0 +1,7 @@
+# requirements.txt
+
+Django==4.2.13
+djangorestframework==3.14.0
+pandas==1.5.3
+numpy==1.21.6
+nltk==3.8.1

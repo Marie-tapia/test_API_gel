@@ -1,0 +1,75 @@
+mots,valeur
+ignores,0.75
+fuyer,1
+fuyez,1
+independant,0.75
+independante,0.75
+independance,0.75
+pas d encadrement,1
+encadrement absent,1
+sans vrai encadrement,0.5
+sans encadrement,1
+aucun encadrement,1
+pas encadre,1
+pas encadres,1
+sans avis,1
+aucun regard,1
+aucun regards,1
+aucuns regards,1
+a eviter,0.75
+voue a nous meme ,0.75
+vouer a soi meme,0.75
+voue a soi meme,0.75
+entierement seul,1
+entierement seuls,1
+entierement seule,1
+pas de medecin,0.75
+pas de medecins,0.75
+peu medecin,0.25
+sans medecins,0.75
+absence des medecins,0.75
+absence de medecins,0.75
+absence de medecin,0.75
+aucune consideration,0.5
+totalement absent,0.5
+totalement absents,0.5
+totalement absente,0.5
+totalement absentes,0.5
+au feeling,0.5
+aucune prise en charge,0.5
+ambiance desagreable,0.25
+ambiance deplorable,0.25
+mauvaise ambiance,0.25
+independance totale,1
+ete force,0.5
+ete forcee,0.5
+ne verifie,0.5
+personne avec nous,0.75
+souvent seul,0.75
+souvent seuls,0.75
+manque d encadrement,1
+prescrive seul,1
+prescrit seul,1
+medecins non disponibles,0.5
+medecins non disponibles,0.5
+ne relit,0.75
+ne relis,0.75
+ne relise,0.75
+ne relient,0.75
+ne relisent,0.75
+corrige pas,0.75
+corrigent pas,0.75
+manque de validation de senior,0.75
+manque de validation du senior,0.75
+manque de validation de seniors,0.75
+quelle souffrance,0.25
+stress ambiant,0.75
+personne pour verifier si,1
+personne pour verifie si,1
+personne pour nous dire si,1
+personne pour dire si,1
+personne pour vous dire si,1
+autonomie la plus complete,0.5
+totalement seuls,0.75
+totalement seul,0.75
+totalement seules,0.75
